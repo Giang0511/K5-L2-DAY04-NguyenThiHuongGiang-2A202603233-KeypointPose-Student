@@ -20,6 +20,7 @@
 | `face` | Skeleton | 13 | Có | Có | 13 |
 
 Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? **Có** 
+
 Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bản CVAT này :Mở mục PARTS của skeleton trong panel Objects, chọn đúng điểm cần đổi rồi bật cờ `occluded` hoặc `outside` của điểm đó (điểm `occluded` hiển thị bằng nét đứt).
 
 ## 2. Số lượng đã gán và thời gian (CP1, CP2)
@@ -34,7 +35,7 @@ Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bả
 | `faces` | 8 | 8 | 0 | 0 | 15 |
 
 - Số ảnh người đã xong ở mốc phút 105: 10 / 10
-- Thời gian thực tế (phút): CP1 35 · CP2 25 · CP3 10
+- Thời gian thực tế (phút): CP1: 35 ; CP2: 25 ; CP3: 10
 - Ảnh tốn thời gian nhất là ảnh nào, vì sao?
 Hai ảnh 000000351176.jpg và 000000381889.jpg là những ảnh tốn nhiều
 thời gian nhất.
